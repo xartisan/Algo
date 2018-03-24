@@ -1,2 +1,1 @@
-# leetcode
-Leetcode算法训练之路
+# 算法训练之路
