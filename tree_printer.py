@@ -12,8 +12,9 @@ class Node:
 def print_tree(root):
     ret = []
     temp = []
-    q.append(root)
+
     q = deque()
+    q.append(root)
     last = root
     next_last = None
     current = None
